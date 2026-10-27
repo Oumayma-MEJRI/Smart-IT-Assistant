@@ -41,3 +41,10 @@ Projet réalisé dans le cadre d’un apprentissage personnel, avec l’aide d�
 * Amélioration de l’interface graphique.
 * Ajout de nouvelles fonctionnalités de diagnostic.
 * Tests sur différents ordinateurs Windows.
+## Captures d'écran
+
+### Diagnostic informatique
+![Diagnostic informatique](assistant-intelligent.png)
+
+### Interface de l'application
+![Smart IT Assistant](assistant-intelligent-it-.png)
